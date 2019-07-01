@@ -1,0 +1,55 @@
+######################################################################
+# Options for the batch system
+# These options are not executed by the script, but are instead read by the
+# batch system before submitting the job. Each option is preceeded by '#$' to
+# signify that it is for grid engine.
+#
+# All of these options are the same as flags you can pass to qsub on the
+# command line and can be **overriden** on the command line. see man qsub for
+# all the details
+######################################################################
+# -- The shell used to interpret this script
+#$ -S /bin/bash
+# -- Execute this job from the current working directory.
+#$ -cwd
+# -- Job output to stderr will be merged into standard out. Remove this line if
+# -- you want to have separate stderr and stdout log files
+#$ -j y
+#$ -o job1/
+# -- Send email when the job exits, is aborted or suspended
+#$ -m eas
+#$ -M ma777@sussex.ac.uk
+
+
+
+######################################################################
+# Job Script
+# Here we are writing in bash (as we set bash as our shell above). In here you
+# should set up the environment for your program, copy around any data that
+# needs to be copied, and then execute the program
+######################################################################
+# We can pass arguments to this script like normal. Here we read in $1 if it is
+# available, otherwise, set the default value, ARG_DIGITS=10
+# ARG_DIGITS="${1:-10}"
+# Here we execute usual shell commands like any other shell script. The
+# output here will be sent to the job's standard out
+echo "Running job script "
+
+
+# We can set up an environment variable that can be seen by the script
+#export MY_ENV_VAR="This variable is exported into the process's environment"
+# We need to ensure we set up the complete environment needed by our job,
+# in this case, just loading the python module
+# module load python
+
+
+
+
+# Finally we run our executable. Here we are passing the command line argument
+# above to the script
+#/cm/shared/examples/job_templates/batch_serial/fibonacci.py $ARG_DIGITS
+#./fibonacci.py $ARG_DIGITS
+
+sh -e runNewShell.sh 8 100000
+
+echo "Finished job script "
