@@ -1,4 +1,9 @@
 # ndp-tcp-datacentre-omnetpp-model
+An implementation of NDP[1] protocol (SIGCOMM 2017 Best Paper Award) in OMNeT++/INET. 
+
+[1] NDP: Re-Architecting Datacenter Networks and Stacks for Low Latency https://gianniantichi.github.io/files/papers/ndp.pdf 
+
+
 A DEMO IS COMING SOON ....................
 
 ndp-tcp-datacentre-omnetpp-model
