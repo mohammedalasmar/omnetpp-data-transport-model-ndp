@@ -3,6 +3,7 @@ An implementation of NDP[1] protocol (SIGCOMM 2017 Best Paper Award) in OMNeT++/
 
 [1] NDP: Re-Architecting Datacenter Networks and Stacks for Low Latency https://gianniantichi.github.io/files/papers/ndp.pdf 
 
+This model is based on OMNeT++v5.2.1 and INETv3.6.3.
 
 A DEMO IS COMING SOON ....................
 
