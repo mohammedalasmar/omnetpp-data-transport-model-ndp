@@ -10,9 +10,6 @@ A DEMO can be found in this link:
 https://drive.google.com/file/d/1K5unvUnAxxSCegsLscOYE1raJuEGrF4v/view?usp=sharing
 
 
-![alt text](https://drive.google.com/file/d/1K5unvUnAxxSCegsLscOYE1raJuEGrF4v/view?usp=sharing
-)
-
 
 ndp-tcp-datacentre-omnetpp-model
 /samples/inet-myprojects/inet/src/inet/ndp/
