@@ -13,9 +13,13 @@ ndp-tcp-datacentre-omnetpp-model
 NDP Design
 ![alt text](https://live.staticflickr.com/65535/48706583473_cbcfd528a0_z_d.jpg)
 
-NDP Features 
-![alt text]()
 
 NDP in OMNeT++/INET
-![alt text](http://i68.tinypic.com/5e7ek4.png)
+![alt text](https://live.staticflickr.com/65535/48707103072_f57811f959_z_d.jpg)
 
+![alt text](https://live.staticflickr.com/65535/48706601793_6ebd9eb6ee_z_d.jpg)
+
+
+
+Per-packet vs per-flow ECMP
+![alt text](https://live.staticflickr.com/65535/48706601763_51955a574a_z_d.jpg)
