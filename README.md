@@ -5,7 +5,9 @@ An implementation of NDP[1] protocol (SIGCOMM 2017 Best Paper Award) in OMNeT++/
 
 This model is based on OMNeT++v5.2.1 and INETv3.6.3.
 
-A DEMO can be found in this link:
+Click on the video sign to watch the DEMO:
+
+
 [![Watch the video](https://live.staticflickr.com/65535/48716277907_e413164ca4_m_d.jpg)](https://drive.google.com/file/d/1K5unvUnAxxSCegsLscOYE1raJuEGrF4v/view?usp=sharing
 )
 
