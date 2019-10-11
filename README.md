@@ -17,7 +17,7 @@ STEP1: compile omnetpp project:\
 (2) omnetpp-5.2.1$ ./configure\
 (3) omnetpp-5.2.1$ . setenv\
 (4) omnetpp-5.2.1$ make cleanall\
-(5) omnetpp-5.2.1$ make -j4\
+(5) omnetpp-5.2.1$ make -j4
 
 [![Watch the video](https://live.staticflickr.com/65535/48716277907_e413164ca4_m_d.jpg)](https://drive.google.com/file/d/12lFCZBZKDBOSbrI7KJYmBaCnjm3GLPCa/view?usp=sharing
 )
@@ -28,7 +28,7 @@ STEP2: compile inet and ndp projects:\
 (1) Go to this directory: omnetpp-5.2.1/my-samples/inet-myprojects/inet\
 (2) inet$ make makefiles\
 (3)  Go to this directory: omnetpp-5.2.1/my-samples/inet-myprojects/inet/src\
-(4)  .. inet/src$ make -j4\
+(4)  .. inet/src$ make -j4
 
 [![Watch the video](https://live.staticflickr.com/65535/48716277907_e413164ca4_m_d.jpg)](https://drive.google.com/file/d/1Qrb2r71MZxAeSat6jRhH1mEShvqBrGcM/view?usp=sharing
 )
@@ -43,11 +43,11 @@ omnetpp-5.2.1/my-samples/inet-myprojects/inet/src/inet/ndp/FatTreeNDP/exp1-1-see
 omnetpp-5.2.1/my-samples/inet-myprojects/inet/src/inet/ndp/FatTreeNDP/exp1-1-seed1/runNewShell.sh\
 
 (3) To run the shell script, type this command in the terminal\
-$ sh -e runNewShell.sh  8  100\
+$ sh -e runNewShell.sh  8  100
 
-Note that: the shell script takes two input parameters which are: K (FatTree size) (e.g. K = 8) and numShortFlows to\ simulate (e.g. numShortFlows = 100)\
+Note that: the shell script takes two input parameters which are: K (FatTree size) (e.g. K = 8) and numShortFlows to\ simulate (e.g. numShortFlows = 100)
 
-(4) There are several Matalb scripts to plot the results from this experiment. You can run all of them by calling the\ 'plotResults.m' Matlab script. \
+(4) There are several Matalb scripts to plot the results from this experiment. You can run all of them by calling the\ 'plotResults.m' Matlab script. 
 
 
 
