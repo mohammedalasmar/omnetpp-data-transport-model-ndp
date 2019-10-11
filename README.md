@@ -13,7 +13,8 @@ The paper includes implementations for some data centre protocols in OMNeT++/INE
 =============================================
 
 STEP1: compile omnetpp project:\
-(1) Open a new terminal and go to the omnetpp-5.2.1 directory\ 
+(1) Open a new terminal and go to the omnetpp-5.2.1 directory
+
 (2) omnetpp-5.2.1$ ./configure \
 (3) omnetpp-5.2.1$ . setenv \
 (4) omnetpp-5.2.1$ make cleanall \
