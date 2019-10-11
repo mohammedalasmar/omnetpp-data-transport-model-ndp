@@ -42,17 +42,17 @@ See this video for the above steps:
 
 STEP3: run an NDP example in the terminal:\
 (1) There is an ini file that shows an example for NDP model in this directory\
-omnetpp-5.2.1/my-samples/inet-myprojects/inet/src/inet/ndp/FatTreeNDP/exp1-1-seed1.ini\
+omnetpp-5.2.1/my-samples/inet-myprojects/inet/src/inet/ndp/FatTreeNDP/exp1-1-seed1.ini
 
-(2) There is a shell script that can be used to run this example and it generates several csv files, see\
-omnetpp-5.2.1/my-samples/inet-myprojects/inet/src/inet/ndp/FatTreeNDP/exp1-1-seed1/runNewShell.sh\
+(2) There is a shell script that can be used to run this example and it generates several csv files, see
+omnetpp-5.2.1/my-samples/inet-myprojects/inet/src/inet/ndp/FatTreeNDP/exp1-1-seed1/runNewShell.sh
 
 (3) To run the shell script, type this command in the terminal\
 $ sh -e runNewShell.sh  8  100
 
-Note that: the shell script takes two input parameters which are: K (FatTree size) (e.g. K = 8) and numShortFlows to\ simulate (e.g. numShortFlows = 100)
+Note that: the shell script takes two input parameters which are: K (FatTree size) (e.g. K = 8) and numShortFlows to simulate (e.g. numShortFlows = 100)
 
-(4) There are several Matalb scripts to plot the results from this experiment. You can run all of them by calling the\ 'plotResults.m' Matlab script. 
+(4) There are several Matalb scripts to plot the results from this experiment. You can run all of them by calling the 'plotResults.m' Matlab script. 
 
 
 See the video above for these steps.
