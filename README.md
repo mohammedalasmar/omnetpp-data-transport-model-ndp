@@ -2,12 +2,12 @@
 
 This repository includes the codes for our OMNeT++ Summit 2019 paper (see this link https://github.com/mohammedalasmar/ndpTcpDatacentreOmnetppModel/blob/master/datacentre-omnetpp.pdf).
 
-The paper includes implementations for some data centre protocols in OMNeT++/INET. These implementations are as follows: 
-(1) FatTree topology
-(2) Per-packet and per-flow ECMP
-(3) A model of NDP protocol in INET
-(4) Evaluating the performance of TCP and NDP in a FatTree topology
-(5) A central traffic scheduler for scheduling flows in the simulated network and setting up simulation parameters for experimenting with the above-mentioned contributions.  
+The paper includes implementations for some data centre protocols in OMNeT++/INET. These implementations are as follows: \
+(1) FatTree topology\
+(2) Per-packet and per-flow ECMP\
+(3) A model of NDP protocol in INET\
+(4) Evaluating the performance of TCP and NDP in a FatTree topology\
+(5) A central traffic scheduler for scheduling flows in the simulated network and setting up simulation parameters for experimenting with the above-mentioned contributions.  \
 
 
 =============================================
