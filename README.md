@@ -20,6 +20,8 @@ STEP1: compile omnetpp project:\
 (4) omnetpp-5.2.1$ make cleanall \
 (5) omnetpp-5.2.1$ make -j4
 
+See this video for the above steps:
+
 [![Watch the video](https://live.staticflickr.com/65535/48716277907_e413164ca4_m_d.jpg)](https://drive.google.com/file/d/12lFCZBZKDBOSbrI7KJYmBaCnjm3GLPCa/view?usp=sharing
 )
 
@@ -30,6 +32,8 @@ STEP2: compile inet and ndp projects:\
 (2) inet$ make makefiles\
 (3)  Go to this directory: omnetpp-5.2.1/my-samples/inet-myprojects/inet/src\
 (4)  .. inet/src$ make -j4
+
+See this video for the above steps:
 
 [![Watch the video](https://live.staticflickr.com/65535/48716277907_e413164ca4_m_d.jpg)](https://drive.google.com/file/d/1Qrb2r71MZxAeSat6jRhH1mEShvqBrGcM/view?usp=sharing
 )
@@ -51,10 +55,12 @@ Note that: the shell script takes two input parameters which are: K (FatTree siz
 (4) There are several Matalb scripts to plot the results from this experiment. You can run all of them by calling the\ 'plotResults.m' Matlab script. 
 
 
+See the video above for these steps.
 
 
 
 =============================================
+
 An implementation of NDP[1] protocol (SIGCOMM 2017 Best Paper Award) in OMNeT++/INET. 
 
 [1] NDP: Re-Architecting Datacenter Networks and Stacks for Low Latency https://gianniantichi.github.io/files/papers/ndp.pdf 
