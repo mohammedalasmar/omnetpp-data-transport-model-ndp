@@ -1,0 +1,28 @@
+var classomnetpp_1_1cCanvas =
+[
+    [ "dup", "classomnetpp_1_1cCanvas.html#a9282fa8402f458480009139f209b9149", null ],
+    [ "forEachChild", "classomnetpp_1_1cCanvas.html#ac764613051628e373bdd277d2dcc50bd", null ],
+    [ "str", "classomnetpp_1_1cCanvas.html#acd0363984c7005246e42e9a6c178e22a", null ],
+    [ "getBackgroundColor", "classomnetpp_1_1cCanvas.html#a77cabecb552105237781482aa270b302", null ],
+    [ "setBackgroundColor", "classomnetpp_1_1cCanvas.html#adac63e97d332cffdeb3ba657f2bb1672", null ],
+    [ "getRootFigure", "classomnetpp_1_1cCanvas.html#ae5d1e9d09c0756854169de714787f893", null ],
+    [ "addFigure", "classomnetpp_1_1cCanvas.html#a5ef066ee563f914580f61111f8f46ba2", null ],
+    [ "addFigure", "classomnetpp_1_1cCanvas.html#a5e191511a274bf202ebe99eba89671b9", null ],
+    [ "addFigureAbove", "classomnetpp_1_1cCanvas.html#a8aa0dae7f8349952c216ec9fd96f02e4", null ],
+    [ "addFigureBelow", "classomnetpp_1_1cCanvas.html#a04d48d54f08398087a2ca23443e348a3", null ],
+    [ "removeFigure", "classomnetpp_1_1cCanvas.html#af5773829647886261f3027d1044b1a43", null ],
+    [ "removeFigure", "classomnetpp_1_1cCanvas.html#af09d37460063a1b284acd8aa67a3d1b2", null ],
+    [ "findFigure", "classomnetpp_1_1cCanvas.html#a2e50aed153af7af200a334412ac0e737", null ],
+    [ "findFigure", "classomnetpp_1_1cCanvas.html#a3e5c0b214a6a15f39c6804da7ffa287f", null ],
+    [ "hasFigures", "classomnetpp_1_1cCanvas.html#a215853d25dc4883221b86c822b5b5e64", null ],
+    [ "getNumFigures", "classomnetpp_1_1cCanvas.html#a739e5f130285fdd398872519b804946c", null ],
+    [ "getFigure", "classomnetpp_1_1cCanvas.html#a69acca23f238784af127d0ac12c441dc", null ],
+    [ "getFigure", "classomnetpp_1_1cCanvas.html#a1045a4885352396c819f444b0a48ce49", null ],
+    [ "getSubmodulesLayer", "classomnetpp_1_1cCanvas.html#af35feb299d35ccead28d618a5f77267f", null ],
+    [ "findFigureRecursively", "classomnetpp_1_1cCanvas.html#a8f9d653fba1375fb483e76cff6dd1485", null ],
+    [ "getFigureByPath", "classomnetpp_1_1cCanvas.html#acfb80671feb90c5919e1dd3bd347d8ff", null ],
+    [ "getAllTags", "classomnetpp_1_1cCanvas.html#a3d3f77f09d887d91d9a11d2bdf6b6e01", null ],
+    [ "getAllTagsAsVector", "classomnetpp_1_1cCanvas.html#a3e4877d0dd5f538375ec4ed29d3fac25", null ],
+    [ "setAnimationSpeed", "classomnetpp_1_1cCanvas.html#ac430820db9baab3873e7e656649bdc14", null ],
+    [ "holdSimulationFor", "classomnetpp_1_1cCanvas.html#a84391e4005708bdbc618c24ef98ea0c5", null ]
+];

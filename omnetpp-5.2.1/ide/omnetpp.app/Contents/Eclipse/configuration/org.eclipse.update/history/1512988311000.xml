@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1512988175639" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.13.8.v20170715-2257" url="features/org.eclipse.ecf.filetransfer.feature_3.13.8.v20170715-2257/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.4.0.v20170516-2248" url="features/org.eclipse.ecf.core.feature_1.4.0.v20170516-2248/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.debug" version="9.3.2.201709131603" url="features/org.eclipse.cdt.gnu.debug_9.3.2.201709131603/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="1.6.1.v20170928-1359" url="features/org.eclipse.e4.rcp_1.6.1.v20170928-1359/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.0.v20170110-1317" url="features/org.eclipse.ecf.core.ssl.feature_1.1.0.v20170110-1317/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" version="1.1.0.v20170110-1317" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.0.v20170110-1317/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons" version="3.23.0.v20170503-0014" url="features/org.eclipse.mylyn.commons_3.23.0.v20170503-0014/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.omnetpp.ide" version="5.2.1.171211-da8f6bc" url="features/org.omnetpp.ide_5.2.1.171211-da8f6bc/">
+		</feature>
+		<feature id="org.eclipse.epp.logging.aeri.feature" version="2.0.6.v20170906-1226" url="features/org.eclipse.epp.logging.aeri.feature_2.0.6.v20170906-1226/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.user.ui" version="2.3.1.v20170928-1405" url="features/org.eclipse.equinox.p2.user.ui_2.3.1.v20170928-1405/">
+		</feature>
+		<feature id="org.eclipse.cdt.native" version="9.3.2.201709131603" url="features/org.eclipse.cdt.native_9.3.2.201709131603/">
+		</feature>
+		<feature id="org.eclipse.emf.transaction" version="1.11.0.201706061339" url="features/org.eclipse.emf.transaction_1.11.0.201706061339/">
+		</feature>
+		<feature id="org.eclipse.linuxtools.valgrind" version="6.1.1.201709061712" url="features/org.eclipse.linuxtools.valgrind_6.1.1.201709061712/">
+		</feature>
+		<feature id="org.omnetpp.ide.source" version="5.2.1.171211-da8f6bc" url="features/org.omnetpp.ide.source_5.2.1.171211-da8f6bc/">
+		</feature>
+		<feature id="org.eclipse.help" version="2.2.101.v20171009-0410" url="features/org.eclipse.help_2.2.101.v20171009-0410/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="org.eclipse.linuxtools.profiling" version="6.1.1.201709061712" url="features/org.eclipse.linuxtools.profiling_6.1.1.201709061712/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.notifications" version="1.15.0.v20170411-1844" url="features/org.eclipse.mylyn.commons.notifications_1.15.0.v20170411-1844/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.cdt" version="9.3.2.201709131603" url="features/org.eclipse.cdt_9.3.2.201709131603/">
+		</feature>
+		<feature id="org.eclipse.emf.workspace" version="1.11.0.201706061339" url="features/org.eclipse.emf.workspace_1.11.0.201706061339/">
+		</feature>
+		<feature id="org.eclipse.emf.validation" version="1.11.0.201706061352" url="features/org.eclipse.emf.validation_1.11.0.201706061352/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.4.1.v20170928-1405" url="features/org.eclipse.equinox.p2.core.feature_1.4.1.v20170928-1405/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.rcp.feature" version="1.3.1.v20170928-1405" url="features/org.eclipse.equinox.p2.rcp.feature_1.3.1.v20170928-1405/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.13.0.v20170609-0707" url="features/org.eclipse.emf.ecore_2.13.0.v20170609-0707/">
+		</feature>
+		<feature id="org.eclipse.emf.edit" version="2.12.0.v20170609-0928" url="features/org.eclipse.emf.edit_2.12.0.v20170609-0928/">
+		</feature>
+		<feature id="org.eclipse.draw2d" version="3.10.100.201606061308" url="features/org.eclipse.draw2d_3.10.100.201606061308/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.dsf" version="9.3.2.201709131603" url="features/org.eclipse.cdt.gnu.dsf_9.3.2.201709131603/">
+		</feature>
+		<feature id="org.eclipse.jgit" version="4.8.0.201706111038-r" url="features/org.eclipse.jgit_4.8.0.201706111038-r/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.7.1.v20171009-0410" url="features/org.eclipse.rcp_4.7.1.v20171009-0410/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.build" version="9.3.2.201709131603" url="features/org.eclipse.cdt.gnu.build_9.3.2.201709131603/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.3.1.v20170928-1405" url="features/org.eclipse.equinox.p2.extras.feature_1.3.1.v20170928-1405/">
+		</feature>
+		<feature id="org.eclipse.platform" version="4.7.1.v20171009-0410" url="features/org.eclipse.platform_4.7.1.v20171009-0410/">
+		</feature>
+		<feature id="org.eclipse.gmf.runtime.thirdparty" version="1.11.0.201706061437" url="features/org.eclipse.gmf.runtime.thirdparty_1.11.0.201706061437/">
+		</feature>
+		<feature id="org.eclipse.cdt.gdb" version="9.3.2.201709131603" url="features/org.eclipse.cdt.gdb_9.3.2.201709131603/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature" version="3.13.8.v20170715-2257" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.13.8.v20170715-2257/">
+		</feature>
+		<feature id="org.eclipse.gmf.runtime.notation" version="1.11.0.201706061354" url="features/org.eclipse.gmf.runtime.notation_1.11.0.201706061354/">
+		</feature>
+		<feature id="org.omnetpp.ide.academic" version="5.2.1.171211-da8f6bc" url="features/org.omnetpp.ide.academic_5.2.1.171211-da8f6bc/" plugin-identifier="org.omnetpp.main">
+		</feature>
+		<feature id="org.eclipse.emf.ecore.edit" version="2.9.0.v20170609-0928" url="features/org.eclipse.emf.ecore.edit_2.9.0.v20170609-0928/">
+		</feature>
+		<feature id="org.eclipse.cdt.platform" version="9.3.2.201709131603" url="features/org.eclipse.cdt.platform_9.3.2.201709131603/">
+		</feature>
+		<feature id="org.eclipse.gef" version="3.11.0.201606061308" url="features/org.eclipse.gef_3.11.0.201606061308/">
+		</feature>
+		<feature id="org.eclipse.egit" version="4.8.0.201706111038-r" url="features/org.eclipse.egit_4.8.0.201706111038-r/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.13.0.v20170609-0707" url="features/org.eclipse.emf.common_2.13.0.v20170609-0707/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.0.v20170110-1317" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.0.v20170110-1317/">
+		</feature>
+		<feature id="org.eclipse.gmf" version="1.11.0.201706061437" url="features/org.eclipse.gmf_1.11.0.201706061437/">
+		</feature>
+	</site>
+</config>

@@ -1,0 +1,25 @@
+var classomnetpp_1_1cException =
+[
+    [ "cException", "classomnetpp_1_1cException.html#a4610de076686bbf2f50a3cff58e7e82a", null ],
+    [ "cException", "classomnetpp_1_1cException.html#af5adb5ad9a1df543cb457d61897c5130", null ],
+    [ "cException", "classomnetpp_1_1cException.html#ac3700fd849455b4b2e87151787ca981e", null ],
+    [ "cException", "classomnetpp_1_1cException.html#acac45118142c9048c573d89c5858af89", null ],
+    [ "cException", "classomnetpp_1_1cException.html#a678befe867e9ff64a80213d2ce3ee8b5", null ],
+    [ "~cException", "classomnetpp_1_1cException.html#a82013bc9da99df8a5f15f1d962a8c173", null ],
+    [ "init", "classomnetpp_1_1cException.html#a601b48ca92b6835e927f746a08013b62", null ],
+    [ "dup", "classomnetpp_1_1cException.html#a17c1f6fc0a638e74671391b83106f968", null ],
+    [ "setMessage", "classomnetpp_1_1cException.html#a5bbf2a5832dde65d55f124195cd1f5ff", null ],
+    [ "prependMessage", "classomnetpp_1_1cException.html#a28fd871d32d23af162b862a4d48c2bac", null ],
+    [ "isError", "classomnetpp_1_1cException.html#ab9d44f6f3e54c6fbca9c9abf05822857", null ],
+    [ "getErrorCode", "classomnetpp_1_1cException.html#ab45a7e16f7f79c97694ee06c0c0fd618", null ],
+    [ "what", "classomnetpp_1_1cException.html#ae26e1f71562f0ec85aa1d3fa735da3da", null ],
+    [ "getFormattedMessage", "classomnetpp_1_1cException.html#af592e0bd44a4d3d16f2d0324ed9a3bca", null ],
+    [ "getSimulationStage", "classomnetpp_1_1cException.html#a9bb8691286e754243925ca8dab62a500", null ],
+    [ "getEventNumber", "classomnetpp_1_1cException.html#a3d80cb70ea3be186b5d06a2a32172a6a", null ],
+    [ "getSimtime", "classomnetpp_1_1cException.html#a72d5454145ac7612dcf5ed319e8e7a36", null ],
+    [ "hasContext", "classomnetpp_1_1cException.html#a28c443c04f498f4b498d99c4ba3a1341", null ],
+    [ "getContextClassName", "classomnetpp_1_1cException.html#a2735efe8a9dcc95c1c58edf5b0e8a756", null ],
+    [ "getContextFullPath", "classomnetpp_1_1cException.html#ae608b977e75acfe529424d55086bc2c5", null ],
+    [ "getContextComponentId", "classomnetpp_1_1cException.html#a6cad94da3a9d74abccb6f58636d64cd4", null ],
+    [ "getContextComponentKind", "classomnetpp_1_1cException.html#aa41c25cc284f88cbe75388e2f26e8a54", null ]
+];

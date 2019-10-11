@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.omnetpp.ide.nativelibs.linux.x86_64
+Archiver-Version: Plexus Archiver
+Built-By: root
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Eclipse-PlatformFilter: (& (osgi.os=linux) (osgi.arch=x86_64))
+Bundle-Vendor: OpenSim Ltd.
+Fragment-Host: org.omnetpp.ide.nativelibs;bundle-version="[5.1.0,6.0.0
+ )"
+Bundle-Name: OMNeT++ Linux.x86 64bit native library fragment
+Bundle-Version: 5.2.1.171211-da8f6bc
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_151
+Eclipse-BundleShape: dir
+

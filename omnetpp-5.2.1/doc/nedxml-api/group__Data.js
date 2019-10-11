@@ -1,0 +1,55 @@
+var group__Data =
+[
+    [ "NEDElementUserData", "classomnetpp_1_1nedxml_1_1NEDElementUserData.html", [
+      [ "NEDElementUserData", "classomnetpp_1_1nedxml_1_1NEDElementUserData.html#a991216d58be1fdb9846c9b18e96f0db5", null ],
+      [ "~NEDElementUserData", "classomnetpp_1_1nedxml_1_1NEDElementUserData.html#a7a472fe6da9849e229cd3f0ab02cd23c", null ]
+    ] ],
+    [ "NEDSourceRegion", "structomnetpp_1_1nedxml_1_1NEDSourceRegion.html", [
+      [ "NEDSourceRegion", "structomnetpp_1_1nedxml_1_1NEDSourceRegion.html#a4d463c4b40c9fbbdf74b9d36c7598cd9", null ],
+      [ "startLine", "structomnetpp_1_1nedxml_1_1NEDSourceRegion.html#aae69f615454d4cce6fddf760c20e9eb2", null ],
+      [ "startColumn", "structomnetpp_1_1nedxml_1_1NEDSourceRegion.html#a812398f271aebf690d281beac813fd64", null ],
+      [ "endLine", "structomnetpp_1_1nedxml_1_1NEDSourceRegion.html#ae558febfd4bb35f2cb24e572579516ba", null ],
+      [ "endColumn", "structomnetpp_1_1nedxml_1_1NEDSourceRegion.html#ac2d756f3d6a52f8b73f2025847c18f79", null ]
+    ] ],
+    [ "NEDElement", "classomnetpp_1_1nedxml_1_1NEDElement.html", [
+      [ "NEDElement", "classomnetpp_1_1nedxml_1_1NEDElement.html#a0fbb4056854acaefc8657d3934644ad6", null ],
+      [ "NEDElement", "classomnetpp_1_1nedxml_1_1NEDElement.html#a770fb84134b7e0f0bd6fe2a96ea2d2bf", null ],
+      [ "~NEDElement", "classomnetpp_1_1nedxml_1_1NEDElement.html#a7d8bcc807445d466316ac4c685d4faca", null ],
+      [ "dup", "classomnetpp_1_1nedxml_1_1NEDElement.html#acecb8ad85634e52fd4d975af22428e5b", null ],
+      [ "dupTree", "classomnetpp_1_1nedxml_1_1NEDElement.html#a8da6eec18c84f70ee767b875c0e90cb6", null ],
+      [ "getTagName", "classomnetpp_1_1nedxml_1_1NEDElement.html#a3d4b5e49794506e70a5667bc460c3c43", null ],
+      [ "getTagCode", "classomnetpp_1_1nedxml_1_1NEDElement.html#ab0efcb57ef5caaaaf5b4c0112d0e3a6e", null ],
+      [ "getId", "classomnetpp_1_1nedxml_1_1NEDElement.html#ad8bdfd64d40fffa6989905c0ef2d59d4", null ],
+      [ "setId", "classomnetpp_1_1nedxml_1_1NEDElement.html#a0225b359e80ca6f2672b1857a0741936", null ],
+      [ "getSourceLocation", "classomnetpp_1_1nedxml_1_1NEDElement.html#a5524df9abf6d62335d9f659084180491", null ],
+      [ "setSourceLocation", "classomnetpp_1_1nedxml_1_1NEDElement.html#a9a51918e98bc26acd3da543cd139b2ad", null ],
+      [ "getSourceRegion", "classomnetpp_1_1nedxml_1_1NEDElement.html#a6d7e8f64727238f11d601c17060b45b2", null ],
+      [ "setSourceRegion", "classomnetpp_1_1nedxml_1_1NEDElement.html#ac5aeaf4afa08ed957d438e5521343529", null ],
+      [ "applyDefaults", "classomnetpp_1_1nedxml_1_1NEDElement.html#a3a860c3446918103af579d5079ed7252", null ],
+      [ "getNumAttributes", "classomnetpp_1_1nedxml_1_1NEDElement.html#ac5125024ce6e879f82bc9513de47193f", null ],
+      [ "getAttributeName", "classomnetpp_1_1nedxml_1_1NEDElement.html#a5b07ad0113a4639628a3874b9f9c7232", null ],
+      [ "lookupAttribute", "classomnetpp_1_1nedxml_1_1NEDElement.html#a53e81fe251216e325f8b3510e15825d1", null ],
+      [ "getAttribute", "classomnetpp_1_1nedxml_1_1NEDElement.html#a10022e9e07e39b629dcc4b8e9c9e2bd7", null ],
+      [ "getAttribute", "classomnetpp_1_1nedxml_1_1NEDElement.html#a9d01aa4633af690703b1bcb3fd811f35", null ],
+      [ "setAttribute", "classomnetpp_1_1nedxml_1_1NEDElement.html#a7987b78b6a38e6215c96d9bd443b701d", null ],
+      [ "setAttribute", "classomnetpp_1_1nedxml_1_1NEDElement.html#a1d6c8530525754f3854aa01ec1390282", null ],
+      [ "getAttributeDefault", "classomnetpp_1_1nedxml_1_1NEDElement.html#a4ea1705373d1c9e926482b16a904d36e", null ],
+      [ "getAttributeDefault", "classomnetpp_1_1nedxml_1_1NEDElement.html#a6223a72fedd8468db292fdd0254a8403", null ],
+      [ "getParent", "classomnetpp_1_1nedxml_1_1NEDElement.html#a777d09824214fc8fd584d2f71a8fd725", null ],
+      [ "getFirstChild", "classomnetpp_1_1nedxml_1_1NEDElement.html#a61ce7c2054094a97092e1add07e94226", null ],
+      [ "getLastChild", "classomnetpp_1_1nedxml_1_1NEDElement.html#a37b9ee5690a6b680c69b8489301fd020", null ],
+      [ "getNextSibling", "classomnetpp_1_1nedxml_1_1NEDElement.html#a440c63f61aa22883baec291a51582293", null ],
+      [ "getPrevSibling", "classomnetpp_1_1nedxml_1_1NEDElement.html#a202273650b763767eb33ff4e1063ee7c", null ],
+      [ "appendChild", "classomnetpp_1_1nedxml_1_1NEDElement.html#a166958318ea43d3ed1414a4d3afb2650", null ],
+      [ "insertChildBefore", "classomnetpp_1_1nedxml_1_1NEDElement.html#a7d729b857e1e4188d71f0f0a799f0b03", null ],
+      [ "removeChild", "classomnetpp_1_1nedxml_1_1NEDElement.html#a85190e55f742198f027ab02346cdb2d6", null ],
+      [ "getFirstChildWithTag", "classomnetpp_1_1nedxml_1_1NEDElement.html#a592b285b1a6f47dfa4fe826b912f20be", null ],
+      [ "getNextSiblingWithTag", "classomnetpp_1_1nedxml_1_1NEDElement.html#adb4d9f3ea5bc7f60db6ca878bbb138fa", null ],
+      [ "getNumChildren", "classomnetpp_1_1nedxml_1_1NEDElement.html#a95cf1fd0b95299e35611ccf8fe81c31d", null ],
+      [ "getNumChildrenWithTag", "classomnetpp_1_1nedxml_1_1NEDElement.html#a948ce7b50693428095b156a16df2aefa", null ],
+      [ "getFirstChildWithAttribute", "classomnetpp_1_1nedxml_1_1NEDElement.html#a2c8fdcae83d7c5369fd7970b5d8a6d0d", null ],
+      [ "getParentWithTag", "classomnetpp_1_1nedxml_1_1NEDElement.html#a449b7f629dcf94aaf4b95e1cc069dcab", null ],
+      [ "setUserData", "classomnetpp_1_1nedxml_1_1NEDElement.html#a81a64512fca525c0152dd1131678f776", null ],
+      [ "getUserData", "classomnetpp_1_1nedxml_1_1NEDElement.html#aa01c08fe642fcdd1f2ed2bee9ae70b69", null ]
+    ] ]
+];

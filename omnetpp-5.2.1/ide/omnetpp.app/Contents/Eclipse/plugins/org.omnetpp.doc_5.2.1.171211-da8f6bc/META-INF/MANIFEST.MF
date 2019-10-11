@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.omnetpp.doc;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: root
+Require-Bundle: org.eclipse.ui,org.eclipse.ui.intro,org.eclipse.ui.int
+ ro.universal,org.eclipse.help,org.omnetpp.common
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: OpenSim Ltd.
+Bundle-Name: OMNeT++ Help
+Bundle-Version: 5.2.1.171211-da8f6bc
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_151
+Eclipse-BundleShape: dir
+

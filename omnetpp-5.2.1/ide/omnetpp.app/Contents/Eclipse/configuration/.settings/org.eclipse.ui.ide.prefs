@@ -1,0 +1,6 @@
+MAX_RECENT_WORKSPACES=10
+RECENT_WORKSPACES=/Users/mohammedalasmar/Downloads/omnetpp-ndp-paper/omnetpp-5.2.1/samples-2/inet-myprojects\n/Volumes/LocalDataHD/m/ma/ma777/Desktop/omnetpp-5.2.1-hpc/omnetpp-5.2.1/samples/inet-myprojects\n/Volumes/LocalDataHD/m/ma/ma777/Desktop/omnetpp-5.2.1-hpc/omnetpp-5.2.1/samples\n/Volumes/LocalDataHD/m/ma/ma777/Desktop/omnetpp-5.2.1-hpc/omnetpp-5.2.1/samples/inetmyprojects
+RECENT_WORKSPACES_PROTOCOL=3
+SHOW_RECENT_WORKSPACES=true
+SHOW_WORKSPACE_SELECTION_DIALOG=false
+eclipse.preferences.version=1
