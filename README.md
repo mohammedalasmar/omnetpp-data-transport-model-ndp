@@ -97,3 +97,17 @@ NDP in OMNeT++/INET
 Per-packet vs per-flow ECMP
 
 ![alt text](https://live.staticflickr.com/65535/48706601763_51955a574a_z_d.jpg)
+
+
+
+How to reference this source code?
+
+If you use this source code in part or entirely, please refer to it with the following bibtex:
+@inproceedings{omnetpp-ndp-model,
+	author = {Alasmar, Mohammed and Parisis, George},
+	title = {{Evaluating modern data centre transport protocols in OMNeT++/INET}},
+	booktitle = {Proceedings of the 6th OMNeT++ Community Summit Conference},
+	 address = { Hamburg, Germany},
+	year = {2019},
+} 
+
