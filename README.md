@@ -112,4 +112,11 @@ If you use this source code in part or entirely, please refer to it with the fol
 	 address = { Hamburg, Germany},
 	year = {2019},
 } 
-
+@article{kheirkhah2015multipath,
+  author  = {Kheirkhah, Morteza and Wakeman, Ian and Parisis, George},
+  title   = {{Multipath-TCP in ns-3}},
+  journal = {CoRR},
+  year    = {2015},
+  url     = {http://arxiv.org/abs/1510.07721},
+  archivePrefix = {arXiv},
+}
