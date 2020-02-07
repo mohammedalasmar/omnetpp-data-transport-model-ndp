@@ -1,4 +1,4 @@
-# ndp-tcp-datacentre-omnetpp-model
+# Evaluating modern data centre transport protocols in OMNeT++/INET (NDP/TCP)
 
 This repository includes the codes for our OMNeT++ Summit 2019 paper (see this link https://github.com/mohammedalasmar/ndpTcpDatacentreOmnetppModel/blob/master/datacentre-omnetpp.pdf).
 
