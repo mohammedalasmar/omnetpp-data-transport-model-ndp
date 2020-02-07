@@ -100,8 +100,8 @@ Per-packet vs per-flow ECMP
 
 
 
-How to reference this source code?
-
+# How to reference this source code?
+ 
 If you use this source code in part or entirely, please refer to it with the following bibtex:
 @inproceedings{omnetpp-ndp-model,
 	author = {Alasmar, Mohammed and Parisis, George},
