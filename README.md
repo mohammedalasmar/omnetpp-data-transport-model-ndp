@@ -109,14 +109,8 @@ If you use this source code in part or entirely, please refer to it with the fol
 	author = {Alasmar, Mohammed and Parisis, George},
 	title = {{Evaluating modern data centre transport protocols in OMNeT++/INET}},
 	booktitle = {Proceedings of the 6th OMNeT++ Community Summit Conference},
-	 address = { Hamburg, Germany},
+	address = { Hamburg, Germany},
 	year = {2019},
 } 
-@article{kheirkhah2015multipath,
-  author  = {Kheirkhah, Morteza and Wakeman, Ian and Parisis, George},
-  title   = {{Multipath-TCP in ns-3}},
-  journal = {CoRR},
-  year    = {2015},
-  url     = {http://arxiv.org/abs/1510.07721},
-  archivePrefix = {arXiv},
-}
+
+ 
