@@ -104,8 +104,6 @@ Per-packet vs per-flow ECMP
  
 If you use this source code in part or entirely, please refer to it with the following bibtex:
 
-**cite** 
-
     @inproceedings{omnetpp-ndp-model,
 	  author = {Alasmar, Mohammed and Parisis, George},
 	  title = {{Evaluating modern data centre transport protocols in OMNeT++/INET}},
