@@ -1,0 +1,6 @@
+src/main/resources/static/* linguist-vendored
+
+documented_code.rb linguist-documentation=true
+
+*.rb linguist-language=C++
+
